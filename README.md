@@ -40,6 +40,6 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
-## 📝 License vy me
+## 📝 License by me
 
 
