@@ -1,7 +1,11 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Hello Microverse
 
 > the project is about to Create branches with different base branches , show how follow Gitflow works when you
 Open pull requests in GitHub by Write descriptive, easy to understand commit messages.
+
+![screenshot](./app_screenshot.png)
 
 ## Built With
 
